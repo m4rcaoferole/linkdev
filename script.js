@@ -5,9 +5,9 @@ function toggleMode() {
 
   const img = document.querySelector('#profile img');
 
-  if (html.classList.contains('light')) {
-    img.setAttribute('src', '');
-  } else {
-    img.setAttribute('src', '');
-  }
+  // if (html.classList.contains('light')) {
+  //   img.setAttribute('src', '');
+  // } else {
+  //   img.setAttribute('src', '');
+  // }
 }
